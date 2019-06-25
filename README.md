@@ -11,3 +11,8 @@ source devel/setup.bash
 
 Just run linsener.py
 ```rosrun mypkg linstener.py```
+
+One more thing:
+Please make sure roscore is run in a new terminal```roscore```
+
+If you want test the code just run```rostopic pub fib std_msgs/Int16 12```in a new terminal
