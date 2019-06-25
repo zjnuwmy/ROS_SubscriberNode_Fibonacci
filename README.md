@@ -10,5 +10,4 @@ source devel/setup.bash
 ```
 
 Just run linsener.py
-```rosrun mypkg linstener.py
-```
+```rosrun mypkg linstener.py```
