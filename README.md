@@ -1,4 +1,4 @@
-# ROS_SubscriberNode to get Fibonacci
+# ROS_SubscriberNode to get Fibonacci list
 
 download from this page
 ```download from this page
